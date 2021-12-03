@@ -1,0 +1,13 @@
+{
+  "name": "zt-logger",
+  "version": "1.0.3",
+  "description": "Yet another node.js logger.",
+  "main": "logger.js",
+  "author": "rederek#8600",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "date-and-time": "^2.0.1",
+    "gradient-string": "^2.0.0"
+  }
+}
