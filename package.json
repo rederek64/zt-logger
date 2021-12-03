@@ -5,6 +5,10 @@
   "main": "logger.js",
   "author": "rederek#8600",
   "license": "ISC",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/redeeerrrek/zt-logger.git"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "date-and-time": "^2.0.1",
