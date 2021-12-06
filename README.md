@@ -16,7 +16,7 @@ Another node.js logger.
 const ztlogger = require('zt-logger'); // import module
 
 // setup logger
-const logger = new zt-logger.Logger(
+const logger = new ztlogger.Logger(
     {
         filename: 'logs.txt',
         filepath: "./logs"

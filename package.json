@@ -1,6 +1,6 @@
 {
   "name": "zt-logger",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "Yet another node.js logger.",
   "main": "logger.js",
   "author": "rederek#8600",
@@ -9,6 +9,9 @@
 	"type": "git",
 	"url": "https://github.com/redeeerrrek/zt-logger.git"
   },
+  "keywords": [
+    "logger"
+  ],
   "dependencies": {
     "chalk": "^4.1.0",
     "date-and-time": "^2.0.1",
